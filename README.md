@@ -4,7 +4,7 @@ The Shopping Distance App provides businesses across all industries the opportun
 
 To watch a demo of this solution by our Microsoft Innovation Leader, George Casey, click the video below. 
 
-[![Shopping Distance](https://raw.githubusercontent.com/RSMUSD365/PowerPlatform-ShoppingDistance/master/docs/images/ShoppingDistanceFinal.png)](http://www.youtube.com/watch?v=zOM4LdtZe7A "Shopping Distance")
+[![Shopping Distance](http://img.youtube.com/vi/1_zhDnmNSsg/0.jpg)](http://www.youtube.com/watch?v=zOM4LdtZe7A "Shopping Distance")
 
 
 ## Main Components
