@@ -22,7 +22,7 @@ To watch a demo of this solution by our Microsoft Innovation Leader, George Case
 - Power BI license 
 
 ## Installation
-See the Wiki for [Installation Instructions](https://github.com/RSMUSD365/PowerPlatform-ShoppingDistance/wiki/Installation-Guide)
+See the Wiki for [Installation Instructions](https://github.com/RSMUSD365/PowerPlatform-ShoppingDistance/wiki/Installation-and-Configuration-Guide)
 
 ### Disclaimer
 This application template (“Application”) is a sample and may be used with Microsoft Power Platform for dissemination of reference information only. This Application does not constitute audit, tax, consulting, business, financial, investment, legal or other professional advice, and you should consult a qualified professional advisor before taking any action based on the information herein. RSM US LLP (“RSM”), its affiliates and related entities are not responsible for any loss resulting from or relating to reliance on this Application by any person. Customer bears the sole risk and responsibility for any use of this app. RSM does not warrant that the app or any materials provided in connection therewith will be sufficient for any purpose. Sample data included in this Application are for illustration only and are fictitious. No real association is intended or inferred.
