@@ -2,7 +2,10 @@
 ## Overview
 The Shopping Distance App provides businesses across all industries the opportunity to management customer traffic within stores to ensure COVID-19 regulations are met. Through business’ web portal, customers can schedule shopping timeslots in advance while ensuring store capacity remains within standards. When a customer arrives, frontline personnel can efficiently manage reservation and walk-in customer traffic track party size and potential COVID-19 exposure. 
 
-[Shopping Distance Overview Video](https://youtu.be/zOM4LdtZe7A)
+To watch a demo of this solution by our Microsoft Innovation Leader, George Casey, click the video below. 
+
+[![Shopping Distance](http://img.youtube.com/vi/zOM4LdtZe7A/0.jpg)](http://www.youtube.com/watch?v=zOM4LdtZe7A "Shopping Distance")
+
 
 ## Main Components
 - **Web portal**: Customers can reserve desired timeframe for shopping with information regarding party size and potential COVID-19 exposure.
